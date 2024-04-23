@@ -331,7 +331,7 @@ button:hover{
 
 }
 .container-5{
-    background-color: rgb(60, 224, 60);
+    background-color: rgb(189, 140, 4);
     position: relative;
 }
 .container-5 > #varan{
@@ -486,9 +486,11 @@ button:hover{
     position: absolute;
     top: 370px;
     width: 100%;
-    background-color: green;
+    background-color: rgb(0, 0, 0);
     padding: 10px;
     opacity: 70%;
+    color: white;
+    text-align: center;
 }
 .stackParent {
     position: relative;
